@@ -1,0 +1,40 @@
+.link{
+    font-weight: bold;
+    color: black;
+}
+.link a{
+    color: black;
+}
+
+.blue-contant{
+    color: blue;
+}
+
+.special-a{
+    color: orange;
+}
+
+.yellow{
+    background-color: yellow;
+    color: rgb(142, 9, 9);
+}
+
+ul li p {
+    font-weight: bold;
+}
+
+ul li a{
+    color: red;
+}
+
+ol li {
+    color: blue;
+}
+
+.special-ul{
+    list-style-type: none;
+}
+
+.special-li{
+    font-weight:bold;
+}
