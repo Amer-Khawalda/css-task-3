@@ -1,0 +1,39 @@
+.container{
+    position: relative;
+    left: 200px;
+    top: 50px;
+}
+.yellow{
+    width: 40px;
+    height: 40px;
+    background-color: yellow;
+    display: inline-block;
+    position: relative;
+    top: -10px;
+    border: 1px solid black;
+}
+.green{
+    width: 40px;
+    height: 40px;
+    background-color: green;
+    display: inline-block;
+    border: 1px solid black;
+}
+
+.parent{
+    position: relative;
+    left: 200px;
+    top: 100px;
+}
+.red{
+    width: 80px;
+    height: 38px;
+    background-color: red;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid black;
+    color: white;
+}
+.none{
+    display: none;
+}
